@@ -12,5 +12,10 @@ Our codes are run in the following order.
 
 1. FetchData.ino
  - Run a code to fetch the data from a pressure sensor with the Arduino serial monitor.
- - Copy it and paste and extract the 1000 datas of all users (Wu and takeuchi) and save .csv files ()
+ - Copy it and paste and extract the 1000 datas of all users (Wu and takeuchi) and save each .csv files
+ - To create no sound vibration modes without any pressure, we made all zero data .csv files.
+
+2. bitesensor-speaker.ipynb
+ -
  - 
+3. PlaySound.ino 
