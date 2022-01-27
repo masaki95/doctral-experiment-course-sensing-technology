@@ -9,3 +9,8 @@ Our codes are run in the following order.
 
 ※The vibration sound from the speaker has been already made by Takeuchi.
 (We can't tell you how to create it because of the plan to have the patent)
+
+1. FetchData.ino
+ - Run a code to fetch the data from a pressure sensor with the Arduino serial monitor.
+ - Copy it and paste and extract the 1000 datas of all users (Wu and takeuchi) and save .csv files ()
+ - 
