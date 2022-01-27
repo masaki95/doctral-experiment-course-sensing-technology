@@ -1,7 +1,7 @@
 # doctral-experiment-course-sensing-technology
 Codes for Yatani-sensei's doctral-experiment-course submission
 
-We did the experiment following next four steps
+Our codes are run in the following order.
 1. FetchData.ino
 2. bitesensor-speaker.ipynb
 3. PlaySound.ino
