@@ -1,5 +1,6 @@
 # doctral-experiment-course-sensing-technology
 Codes for Yatani-sensei's doctral-experiment-course submission
+(Masaki Takeuchi, Wu Bingchang)
 
 Our codes are run in the following order.
 1. FetchData.ino
